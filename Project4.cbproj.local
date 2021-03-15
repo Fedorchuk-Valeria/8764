@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.262,C:\Users\User\Desktop\Оаип\Project4.cbproj=C:\Users\User\Desktop\lab c++\1lab_2\Project4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,=C:\Users\User\Desktop\Оаип\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,=C:\Users\User\Desktop\Оаип\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.249,C:\Users\User\Desktop\lab c++\1lab_2\Unit1.h=C:\Users\User\Desktop\lab c++\1lab_2\Rectangle.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,C:\Users\User\Desktop\Оаип\Unit8.dfm=C:\Users\User\Desktop\lab c++\1lab_2\Unit8.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,C:\Users\User\Desktop\lab c++\1lab_2\Unit1.h=C:\Users\User\Desktop\lab c++\1lab_2\Circle.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\User\Desktop\lab c++\1lab_2\Unit1.h=C:\Users\User\Desktop\lab c++\1lab_2\Ellipse.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,C:\Users\User\Desktop\Оаип\Polygon.cpp=C:\Users\User\Desktop\lab c++\1lab_2\Polygon.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,C:\Users\User\Desktop\Оаип\Unit8.h=C:\Users\User\Desktop\lab c++\1lab_2\Unit8.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,C:\Users\User\Desktop\Оаип\Polygon.h=C:\Users\User\Desktop\lab c++\1lab_2\Polygon.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,=C:\Users\User\Desktop\Оаип\Unit8.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\User\Desktop\Оаип\Project4PCH1.h=C:\Users\User\Desktop\lab c++\1lab_2\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,C:\Users\User\Desktop\Оаип\Unit8.cpp=C:\Users\User\Desktop\lab c++\1lab_2\Unit8.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,=C:\Users\User\Desktop\Оаип\Unit8.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,=C:\Users\User\Desktop\lab c++\1lab_2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\User\Desktop\lab c++\1lab_2\Unit1.cpp=C:\Users\User\Desktop\lab c++\1lab_2\Ellipse.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,C:\Users\User\Desktop\Оаип\Unit9.h=C:\Users\User\Desktop\Оаип\Polygon.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,=C:\Users\User\Desktop\lab c++\1lab_2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.249,C:\Users\User\Desktop\lab c++\1lab_2\Unit1.cpp=C:\Users\User\Desktop\lab c++\1lab_2\Rectangle.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,C:\Users\User\Desktop\lab c++\1lab_2\Unit1.cpp=C:\Users\User\Desktop\lab c++\1lab_2\Circle.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,=C:\Users\User\Desktop\lab c++\1lab_2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,C:\Users\User\Desktop\Оаип\Unit9.cpp=C:\Users\User\Desktop\Оаип\Figure.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.464,=C:\Users\User\Desktop\Оаип\Unit9.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.502,=C:\Users\User\Desktop\Оаип\Unit9.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,C:\Users\User\Desktop\Оаип\Unit9.cpp=C:\Users\User\Desktop\Оаип\Polygon.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,C:\Users\User\Desktop\Оаип\Unit9.h=C:\Users\User\Desktop\Оаип\Figure.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.805,C:\Users\User\Desktop\Оаип\Figure.cpp=C:\Users\User\Desktop\lab c++\1lab_2\Figure.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.805,C:\Users\User\Desktop\Оаип\Figure.h=C:\Users\User\Desktop\lab c++\1lab_2\Figure.h</Transaction>
+  </Transactions>
+</BorlandProject>
